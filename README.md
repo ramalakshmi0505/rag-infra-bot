@@ -160,7 +160,7 @@ python src/ingest.py
 
 ## Why PostgreSQL over a dedicated vector DB?
 
-Most teams already run PostgreSQL. Adding pgvector means no new infrastructure — just an extension. For production platform teams with existing Postgres, this is the simplest path to production-grade vector search.
+Most teams already run PostgreSQL. Adding pgvector means no new infrastructure just an extension. For production platform teams with existing Postgres, this is the simplest path to production-grade vector search.
 
 ---
 
