@@ -1,4 +1,4 @@
-# Infrastructure Knowledge Bot — RAG with PostgreSQL + pgvector
+# Infrastructure Knowledge Bot RAG with PostgreSQL + pgvector
 
 A RAG (Retrieval-Augmented Generation) pipeline that lets you query infrastructure runbooks, architecture docs, and operational knowledge using natural language.
 
